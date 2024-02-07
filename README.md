@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kindascholar
+- 👋 Hi, I’m Hanan
 - 👀 I’m interested in Human genetics
-- 🌱 I’m currently learning everything genetic, be it statistical, epidemiological and quantitative
-- 💞️ I’m looking to learn enough to be confident from scratch these^ disciplines
+- 🌱 I’m currently learning everything genetic, especialy epidemilogical
+- 💞️ I’m looking to learn enough to be confident from scratch this^ discipline
 
 
 <!---
